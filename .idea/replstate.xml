@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1471517090188">{:repl-history {:ide [], :local [&quot;(ns async-tea-party.core\n  (:require [clojure.core.async\n             :refer [&gt;! &lt;! &gt;!! chan close! go go-loop alts!]]))\n\n\n\n&quot; &quot;(def tea-channel (chan))&quot; &quot;(def tea-channel (chan 10))&quot; &quot;(&gt;!! tea-channel :cup-of-tea)&quot; &quot;tea-channel&quot; &quot;(ns async-tea-party.core\n  (:require [clojure.core.async\n             :refer [&gt;! &lt;! &gt;!! &lt;!! chan close! go go-loop alts!]]))\n\n\n\n&quot; &quot;(&lt;!! tea-channel)&quot; &quot;dsaf&quot;], :remote []}}</component>
+</project>
